@@ -1,0 +1,19 @@
+html, body, main {
+  height: 100%;
+  margin: 0;
+  font-family: Helvetica;
+}
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+article {
+  text-align: center;
+}
+#remainder {
+  font-size: 300pt;
+}
+#proportion {
+  font-size: 50pt;
+}
